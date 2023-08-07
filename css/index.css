@@ -535,7 +535,7 @@ span{
 	}
 }
 
-@media(max-width: 659px){
+@media(max-width: 461px){
 	.home{
 		min-height: 80vh;
 	}
